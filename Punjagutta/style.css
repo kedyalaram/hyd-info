@@ -1,0 +1,27 @@
+.list-group{
+    a{
+    cursor: context-menu;
+    padding:30px;
+     }
+}
+.footer{
+    position: fixed;
+  bottom: 0;
+  width:100%;
+}   
+  h1{
+   padding-top: 20px;
+  }
+  
+  .dropdown-menu {
+    max-height: 150px;
+    overflow-y: scroll;
+  }
+   
+ footer{
+    background-color: rgba(33,106,34,1)!important;
+}
+nav{
+  text-light;
+  background-color: rgba(33,106,34,1)!important;
+}
